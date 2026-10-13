@@ -58,6 +58,8 @@ Kopplingen till tal-till-text och översättning görs i backend.
 <img width="1392" height="515" alt="Skärmavbild 2026-10-13 kl  14 28 27" src="https://github.com/user-attachments/assets/39e0acdc-d7fd-4033-8bca-573c4dc60c45" />
 <img width="1018" height="701" alt="Skärmavbild 2026-10-13 kl  15 02 46" src="https://github.com/user-attachments/assets/3c0c75e4-ac45-41e7-a48d-61fbf86f004c" />
 <img width="1224" height="601" alt="Skärmavbild 2026-10-13 kl  15 02 37" src="https://github.com/user-attachments/assets/20a1ab59-d02e-452c-a9f0-ded3e82e6110" />
+<img width="923" height="624" alt="Skärmavbild 2026-10-13 kl  15 15 18" src="https://github.com/user-attachments/assets/0132a92f-fb89-4223-9ed8-e721dc5ce97b" />
+<img width="846" height="712" alt="Skärmavbild 2026-10-13 kl  15 15 00" src="https://github.com/user-attachments/assets/440a34c4-81a6-47b7-b5b7-58381a059652" />
 
 
 
