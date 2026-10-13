@@ -17,14 +17,19 @@ arabiska och svenska samtidigt.
 projektorn, och tvärtom. Gränssnittet är byggt och testas med simulerad data.
 Kopplingen till tal-till-text och översättning görs i backend.
 
-<img width="1233" height="898" alt="Skärmavbild 2026-10-13 kl  14 26 36" src="https://github.com/user-attachments/assets/14b69bdc-d8fb-45d9-9788-cb7147ec8049" />
-
-<img width="1577" height="934" alt="Skärmavbild 2026-10-13 kl  14 25 51" src="https://github.com/user-attachments/assets/9bcb8bd7-93e0-42fa-86fc-c1cd0eedfc81" />
-<img width="1376" height="945" alt="Skärmavbild 2026-10-13 kl  14 28 07" src="https://github.com/user-attachments/assets/d95fbe36-559e-4699-a524-396691c90ccc" />
-
-<img width="1333" height="947" alt="Skärmavbild 2026-10-13 kl  14 22 02" src="https://github.com/user-attachments/assets/4c9e4fe7-f386-4589-92ae-b30d8bdf627b" />
-<img width="1403" height="956" alt="Skärmavbild 2026-10-13 kl  14 21 22" src="https://github.com/user-attachments/assets/dca103e7-776e-4672-8643-50468cbcd7c3" />
-
+<table>
+  <tr>
+    <td><img width="400" alt="Teknikerns vy för att styra skärmen under gudstjänsten" src="https://github.com/user-attachments/assets/14b69bdc-d8fb-45d9-9788-cb7147ec8049" /></td>
+    <td><img width="400" alt="Rutan där prästen väljer om predikan ska delas, sparas privat eller raderas" src="https://github.com/user-attachments/assets/9bcb8bd7-93e0-42fa-86fc-c1cd0eedfc81" /></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Förberedelse av gudstjänsten med liturgi och material till projektorn" src="https://github.com/user-attachments/assets/4c9e4fe7-f386-4589-92ae-b30d8bdf627b" /></td>
+    <td><img width="400" alt="Närvaro för gudstjänster med diagram" src="https://github.com/user-attachments/assets/dca103e7-776e-4672-8643-50468cbcd7c3" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img width="400" alt="Formulär för medlemmar" src="https://github.com/user-attachments/assets/d95fbe36-559e-4699-a524-396691c90ccc" /></td>
+  </tr>
+</table>
 
 
 
@@ -61,4 +66,4 @@ kalendern och synaxariet dag för dag.
 
 ---
 
-📫 **Kontakt:** [LinkedIn](https://www.linkedin.com/in/sima-soolind) · [Portfolio](https://sima-soolind.netlify.app)<img width="1233" height="898" alt="Skärmavbild 2026-10-13 kl  14 26 36" src="https://github.com/user-attachments/assets/a0880ba4-a4a4-44c0-8ef7-cb0d01dc14ba" />
+📫 **Kontakt:** [LinkedIn](https://www.linkedin.com/in/sima-soolind) · [Portfolio](https://sima-soolind.netlify.app)
