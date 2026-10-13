@@ -1,8 +1,7 @@
 # Hej, jag heter Sima 👋
 
 Jag studerar till **fullstackutvecklare med säkerhetsinriktning** på Företagsuniversitetet.
-Jag har också läst cybersäkerhet, GRC och dataskydd inom IT och AI.
-
+Jag har också läst cybersäkerhet, GRC och dataskydd inom IT och AI, och läser nu **Tillämpad AI för systemutveckling och test**.
 🔎 **Jag söker LIA 2027:** vecka 11–24 och vecka 33–43.
 
 ---
@@ -35,7 +34,10 @@ Kopplingen till tal-till-text och översättning görs i backend.
 *Bilderna visar testdata. Inga riktiga medlemmar.*
 
 **Teknik:** React · TypeScript · Vite · Tailwind CSS · Zod · TanStack Query · i18next (svenska, engelska, arabiska med höger-till-vänster) · Vitest · React Testing Library
-
+<tr>
+<td><img width="400" alt="Startsidan Bibel för alla med dagens datum" src="https://github.com/user-attachments/assets/440a34c4-81a6-47b7-b5b7-58381a059652" /></td>
+<td><img width="400" alt="Fråga om tron, en AI-assistent som är avstängd tills den flyttas till en egen server" src="https://github.com/user-attachments/assets/0132a92f-fb89-4223-9ed8-e721dc5ce97b" /></td>
+</tr>
 **Säkerhet i koden:**
 - Rollbaserad behörighet (RBAC). Servern ska alltid kontrollera rollen igen – backend byggs nu
 - All data valideras med Zod (vitlista)
