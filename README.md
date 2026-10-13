@@ -50,12 +50,22 @@ Kopplingen till tal-till-text och översättning görs i backend.
 
 ---
 
-## Guds ord – bibelapp
+## Bibel- och liturgiapp för ortodoxa församlingar
 
-En bibelapp i React och JavaScript. Den visar dagens läsningar, den koptiska
-kalendern och synaxariet dag för dag.
+Examensarbete i JavaScript Advanced och React. En digital resurs på svenska med
+Bibeln, böner, liturgi och kyrkofädernas tolkningar.
 
-🔒 *Privat repo. Läsåtkomst ges på begäran.*
+- Hela Bibeln på svenska och arabiska, med ljud
+- Agbeya (8 bönetider), Liturgiboken (8 liturgier) och Stilla veckan, med ljud
+- Dagens läsningar med koptiskt datum, Katameros och synaxariet
+- Kyrkofädernas tolkningar av Bibeln på svenska
+- Läsprofiler (barn, ungdom, ny i tron, fördjupning) med AI-förklaringar anpassade efter profilen
+- Favoriter, anteckningar och mörkt/ljust tema
+
+**Teknik:** React · JavaScript · Vite · React Router · Context API · useReducer · Tailwind CSS · GSAP · Vitest
+
+🔒 *Privat repo eftersom appen innehåller licensierat material. Läsåtkomst ges på begäran.*
+
 
 ---
 
