@@ -48,6 +48,20 @@ Kopplingen till tal-till-text och översättning görs i backend.
 
 🔒 *Koden är privat eftersom projektet innehåller licensierat material. Läsåtkomst ges på begäran.*
 
+
+<img width="1106" height="710" alt="Skärmavbild 2026-10-13 kl  14 53 46" src="https://github.com/user-attachments/assets/9b30501d-4ba2-411f-b5e3-21f3e9b031ca" />
+<img width="1179" height="592" alt="Skärmavbild 2026-10-13 kl  14 53 57" src="https://github.com/user-attachments/assets/30c6cdc8-0c42-4a85-8d1a-79f236f495b9" />
+<img width="1063" height="636" alt="Skärmavbild 2026-10-13 kl  14 58 17" src="https://github.com/user-attachments/assets/db2b706e-9058-4e0e-9266-34aed266bfc9" />
+<img width="1028" height="700" alt="Skärmavbild 2026-10-13 kl  15 01 41" src="https://github.com/user-attachments/assets/9df432b0-8b0c-46b2-a4e8-de42eac21d2a" />
+<img width="1005" height="641" alt="Skärmavbild 2026-10-13 kl  14 58 36" src="https://github.com/user-attachments/assets/ab6048d2-910b-41b5-b667-8f87d1fc27bb" />
+<img width="1063" height="636" alt="Skärmavbild 2026-10-13 kl  14 58 17" src="https://github.com/user-attachments/assets/087450de-f72c-469e-9cef-8c7c97aac9d1" />
+<img width="1392" height="515" alt="Skärmavbild 2026-10-13 kl  14 28 27" src="https://github.com/user-attachments/assets/39e0acdc-d7fd-4033-8bca-573c4dc60c45" />
+<img width="1018" height="701" alt="Skärmavbild 2026-10-13 kl  15 02 46" src="https://github.com/user-attachments/assets/3c0c75e4-ac45-41e7-a48d-61fbf86f004c" />
+<img width="1224" height="601" alt="Skärmavbild 2026-10-13 kl  15 02 37" src="https://github.com/user-attachments/assets/20a1ab59-d02e-452c-a9f0-ded3e82e6110" />
+
+
+
+
 ---
 
 ## Bibel- och liturgiapp för ortodoxa församlingar
