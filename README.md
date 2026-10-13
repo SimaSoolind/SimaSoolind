@@ -1,7 +1,9 @@
 # Hej, jag heter Sima 👋
 
 Jag studerar till **fullstackutvecklare med säkerhetsinriktning** på Företagsuniversitetet.
-Jag har också läst cybersäkerhet, GRC och dataskydd inom IT och AI, och läser nu **Tillämpad AI för systemutveckling och test**.
+Jag har också läst cybersäkerhet, GRC och dataskydd inom IT och AI, och läser nu
+**Tillämpad AI för systemutveckling och test**.
+
 🔎 **Jag söker LIA 2027:** vecka 11–24 och vecka 33–43.
 
 ---
@@ -34,6 +36,7 @@ Kopplingen till tal-till-text och översättning görs i backend.
 *Bilderna visar testdata. Inga riktiga medlemmar.*
 
 **Teknik:** React · TypeScript · Vite · Tailwind CSS · Zod · TanStack Query · i18next (svenska, engelska, arabiska med höger-till-vänster) · Vitest · React Testing Library
+
 <tr>
 <td><img width="400" alt="Startsidan Bibel för alla med dagens datum" src="https://github.com/user-attachments/assets/440a34c4-81a6-47b7-b5b7-58381a059652" /></td>
 <td><img width="400" alt="Fråga om tron, en AI-assistent som är avstängd tills den flyttas till en egen server" src="https://github.com/user-attachments/assets/0132a92f-fb89-4223-9ed8-e721dc5ce97b" /></td>
@@ -81,7 +84,10 @@ skärmläsare och animationer stängs av vid minskad rörelse.
 <td><img width="400" alt="Kyrkofädernas tolkning av Matteus 4 med tre verk att jämföra" src="https://github.com/user-attachments/assets/3c0c75e4-ac45-41e7-a48d-61fbf86f004c" /></td>
 </tr>
 <tr>
-<td><img width="400" alt="Liturgiboken med de olika liturgierna" src="https://github.com/user-attachments/assets/ab6048d2-910b-41b5-b667-8f87d1fc27bb" /></td>
+<td><img width="400" alt="Liturgiboken med de olika liturgierna" src="https://github.com/user-attachments/assets/ab6048d2-910b-41b5-b667-8f87d1fc27bb" /></td> <tr>
+<td><img width="400" alt="Startsidan Bibel för alla med dagens datum" src="https://github.com/user-attachments/assets/440a34c4-81a6-47b7-b5b7-58381a059652" /></td>
+<td><img width="400" alt="Fråga om tron, en AI-assistent som är avstängd tills den flyttas till en egen server" src="https://github.com/user-attachments/assets/0132a92f-fb89-4223-9ed8-e721dc5ce97b" /></td>
+</tr>
 <td><img width="400" alt="AI-rutan som visar att AI-förklaringarna är avstängda tills de flyttas till en egen server" src="https://github.com/user-attachments/assets/9df432b0-8b0c-46b2-a4e8-de42eac21d2a" /></td>
 </tr>
 </table>
